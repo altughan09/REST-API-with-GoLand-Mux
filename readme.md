@@ -10,6 +10,11 @@ Run the below script to build and run the API solution.
 go build && ./GoLangRESTAPI
 ```
 
+## Result
+
+![Screenshot](screenshot.png)
+
+
 ## Contributing
 Pull requests are welcome.
 
